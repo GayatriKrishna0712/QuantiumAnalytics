@@ -254,8 +254,6 @@ print("Checking for null/missing values:")
 df2.isnull().sum()
 
 
-# In[ ]:
-
 
 
 
